@@ -3,5 +3,5 @@
 *  **Variable**
 *  **Data Types**
 *  **Conversion and Operation**
-*  ***Comparison**
+*  **Comparison**
 *  **Data Types Summary**
