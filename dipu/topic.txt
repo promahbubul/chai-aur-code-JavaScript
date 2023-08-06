@@ -5,3 +5,7 @@
 - Arry
 - Object
 - function
+- condition
+- loop
+- while
+- for
