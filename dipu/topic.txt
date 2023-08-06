@@ -1,0 +1,7 @@
+- Variable
+- Data type
+- Primitive Data Type
+- Non Primitive Data type
+- Arry
+- Object
+- function
